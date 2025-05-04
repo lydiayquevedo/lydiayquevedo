@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lydiayquevedo (she/her)
-- 👀 Interested in languages, social justice, and education technology
-- 🌱 Currently running a psycholinguistics study on [Lookit](https://lookit.mit.edu/)
-- ✅ Proficient in JavaScript, HTML, CSS, JSON, and R 
-- 📚 Learning Python and developing my other CS skills
+- 👋 Hi, I’m @lydiayquevedo (she/they)
+- 👀 Interested in modeling phonological knowledge in adults and infants
+- 🌱 Currently working on a PhD in linguistics
+- ✅ Proficient in Python, JavaScript, HTML, CSS, JSON, and R 
+- 📚 Learning to use [HuggingFace transformers](https://huggingface.co/docs/transformers/index)
